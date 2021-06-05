@@ -4,4 +4,4 @@
 
 <br>
 
-## Check out the repo [here](https://github.com/tguthrie1765/release-based-workflow)
+## [Check out the repo here](https://github.com/tguthrie1765/release-based-workflow)
